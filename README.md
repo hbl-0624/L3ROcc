@@ -19,7 +19,7 @@
   
   <p><i>Left: RGB Input | Middle: 3D Point Cloud Fusion | Right: 4D Occupancy Grid</i></p>
   <p>
-    <b>🎥 <a href="https://youtu.be/oqntFdGxhwg">Watch Full Demo on YouTube</a></b> | 
+    <b>🎥 <a href="https://youtu.be/oqntFdGxhwg">Watch Full Demo on YouTube</a></b>
   </p>
 </div>
 
